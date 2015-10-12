@@ -1,0 +1,90 @@
+div	{
+	border-radius:10px;
+}
+#img1	{
+	opacity: 1.0;
+	padding-left:auto;
+	padding-right: auto;
+	width:400px;
+	height:400px;
+}
+#img1:hover	{
+	opacity: 0.6;
+}
+#title	{
+	border:5px black solid;
+	position:fixed;
+	z-index: 1;
+	background-color: #BA55D3;
+	position: relative;
+	font-size: 40px;
+	margin-top: -20px;
+	margin-bottom:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+#title:hover	{
+	background-color:#FFC0CB;
+}
+#picture	{
+	border:2px white solid;
+	width: 400px;
+	height: 400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5px;
+}
+#info	{
+	border:2px #B22222 solid;
+	width:400px;
+	height:500px;
+	color:#8B008B;
+	font-size:30px;
+	font-weight: normal; 
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 10%;
+}
+table	{
+	margin-left: auto;
+	margin-right: auto;
+	width:400px;
+	height:80px;
+	position: relative;
+	color:blue;
+	font-size:20px;
+	font-weight: bolder;
+	text-align:center;
+	border-radius:10px;
+}
+#name	{
+	font-size:50px;
+	font-family: verdana;
+}
+#name:hover	{
+	font-weight: bold;
+	text-decoration: underline;
+	color:#DC143C;
+}
+body	{
+	background-color: #ffe4e1;
+}
+#img2	{
+	border-right: 2px blue solid;
+	border-left: 2px blue solid;
+	width:70px;
+	height:70px;
+}
+#img3	{
+		border-right: 2px blue solid;
+	border-left: 2px blue solid;
+	width:70px;
+	height:70px;
+}
+#img4	{
+		border-right: 2px blue solid;
+	border-left: 2px blue solid;
+	width:70px;
+	height:70px;
+}
